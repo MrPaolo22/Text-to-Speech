@@ -1,0 +1,9 @@
+13:04:56 DEBUG : Logs will be stored at 'D:/DATA/Supervisory_Work/Paolo/test_audio_zybo/vitis/text2speech/IDE.log'.
+13:05:00 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\DATA\Supervisory_Work\Paolo\test_audio_zybo\vitis\text2speech\temp_xsdb_launch_script.tcl
+13:05:00 INFO  : Registering command handlers for Vitis TCF services
+13:05:01 INFO  : Platform repository initialization has completed.
+13:05:02 INFO  : XSCT server has started successfully.
+13:05:02 INFO  : Successfully done setting XSCT server connection channel  
+13:05:02 INFO  : plnx-install-location is set to ''
+13:05:02 INFO  : Successfully done query RDI_DATADIR 
+13:05:02 INFO  : Successfully done setting workspace for the tool. 

@@ -1,0 +1,10 @@
+2023-06-28T10:19:41.81229100255-10:19:41 **** Incremental Build of configuration Debug for project text2speech ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000-' '
+000-make --no-print-directory main-build
+000-make[1]: Nothing to be done for 'main-build'.
+00255-
+10:19:42 Build Finished (took 903ms)
+
